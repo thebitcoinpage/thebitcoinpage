@@ -1,1 +1,6 @@
 abcd!
+
+[test]
+  * testing
+    a,b,c,d
+    
